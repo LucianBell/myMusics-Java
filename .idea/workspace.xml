@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9522b868-0a68-4c23-9b56-8ac8aed0e995" name="Changes" comment="Adding files for the first version of the challenge">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/mymusics/principal/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/mymusics/modelos/MinhasPreferidas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/mymusics/modelos/Music.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/mymusics/modelos/Music.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/mymusics/modelos/Podcast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/mymusics/modelos/Podcast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/mymusics/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/mymusics/principal/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
